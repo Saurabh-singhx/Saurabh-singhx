@@ -16,5 +16,5 @@
 - Transition to professional development with hands-on experience.
 
 ### 📫 Let’s Connect
-- 🌍 [Portfolio/Website]([#](https://saurabh-singhx.github.io/Personal-Portfolio-w/))
+- 🌍 [Portfolio/Website](https://saurabh-singhx.github.io/Personal-Portfolio-w/)
 - 💼 [LinkedIn](www.linkedin.com/in/saurabh-kumar0)
