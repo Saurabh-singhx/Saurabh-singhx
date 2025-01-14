@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @Saurabh-singhx
-- 👀 I’m interested in learnig diffrent types of language and create something new with it.
-- 🌱 I’m currently learning web devlopment and some DSA
+👋 Hi there! I'm [Saurabh]  
+🎓 BCA Student | TPS College, Patna, Bihar  
+💻 Passionate Developer | Learning & Building with Code  
 
-<!---
-Saurabh-singhx/Saurabh-singhx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 What I Do
+- 🌐 **Web Development**: Skilled in **React**, **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS** to create sleek and responsive web applications.
+- 🖥️ **Programming**: Proficient in **C++**, continuously exploring algorithms, problem-solving, and software development.
+
+### 🌱 What I’m Learning
+- Enhancing my full-stack development skills.
+- Exploring new tools and technologies to stay up-to-date with industry trends.
+
+### 🌟 Goals
+- Contribute to open-source projects.
+- Build impactful projects that solve real-world problems.
+- Transition to professional development with hands-on experience.
+
+### 📫 Let’s Connect
+- 🌍 [Portfolio/Website]([#](https://saurabh-singhx.github.io/Personal-Portfolio-w/))
+- 💼 [LinkedIn](www.linkedin.com/in/saurabh-kumar0)
