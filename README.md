@@ -3,7 +3,7 @@
 💻 Passionate Developer | Learning & Building with Code  
 
 ### 🚀 What I Do
-- 🌐 **Web Development**: Skilled in **React**, **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS** to create sleek and responsive web applications.
+- 🌐 **Web Development**: Skilled in **React**, **HTML**, **CSS**, **JavaScript**,**Express**, and **Tailwind CSS** to create sleek and responsive web applications.
 - 🖥️ **Programming**: Proficient in **C++**, continuously exploring algorithms, problem-solving, and software development.
 
 ### 🌱 What I’m Learning
