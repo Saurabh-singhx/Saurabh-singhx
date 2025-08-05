@@ -1,20 +1,30 @@
-👋 Hi there! I'm Saurabh
-🎓 BCA Student | TPS College, Patna, Bihar  
-💻 Passionate Developer | Learning & Building with Code  
+## 👋 Hi, I’m Saurabh Kumar  
+🎓 BCA Student @ TPS College, Patna, Bihar  
+💻 Passionate Full-Stack Developer | Lifelong Learner
+
+---
 
 ### 🚀 What I Do
-- 🌐 **Web Development**: Skilled in **React**, **HTML**, **CSS**, **JavaScript**,**Express**, and **Tailwind CSS** to create sleek and responsive web applications.
-- 🖥️ **Programming**: Proficient in **C++**, continuously exploring algorithms, problem-solving, and software development.
+- 🌐 **Web Development**: I build modern and responsive web applications using **React**, **JavaScript**, **HTML**, **CSS**, **Express.js**, and **Tailwind CSS**.
+- 🖥️ **Programming**: Proficient in **C++**, with a strong interest in algorithms, data structures, and problem-solving.
 
-### 🌱 What I’m Learning
-- Enhancing my full-stack development skills.
-- Exploring new tools and technologies to stay up-to-date with industry trends.
+---
 
-### 🌟 Goals
-- Contribute to open-source projects.
-- Build impactful projects that solve real-world problems.
-- Transition to professional development with hands-on experience.
+### 🌱 Currently Learning
+- Advancing my **full-stack development** skills with **MERN stack**.
+- Exploring backend performance optimization and clean architecture.
+- Keeping up with the latest trends in web technologies.
+
+---
+
+### 🎯 Goals
+- ✅ Contribute to open-source projects and collaborative development.
+- ✅ Build impactful projects that solve real-world problems.
+- ✅ Land professional roles to gain hands-on industry experience.
+
+---
 
 ### 📫 Let’s Connect
-- 🌍 [Portfolio/Website](https://saurabh-singhx.github.io/Personal-Portfolio-w/)
+- 🌐 [Portfolio](https://saurabh-singhx.github.io/Personal-Portfolio-w/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/saurabh-kumar0/)
+- 📦 [GitHub](https://github.com/Saurabh-singhx)
