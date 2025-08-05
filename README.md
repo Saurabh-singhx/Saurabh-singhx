@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Saurabh]  
+👋 Hi there! I'm Saurabh
 🎓 BCA Student | TPS College, Patna, Bihar  
 💻 Passionate Developer | Learning & Building with Code  
 
