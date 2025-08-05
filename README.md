@@ -17,4 +17,4 @@
 
 ### 📫 Let’s Connect
 - 🌍 [Portfolio/Website](https://saurabh-singhx.github.io/Personal-Portfolio-w/)
-- 💼 [LinkedIn](www.linkedin.com/in/saurabh-kumar0)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saurabh-kumar0/)
