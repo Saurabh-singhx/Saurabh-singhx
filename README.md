@@ -25,6 +25,5 @@
 ---
 
 ### 📫 Let’s Connect
-- 🌐 [Portfolio](https://saurabh-singhx.github.io/Personal-Portfolio-w/)
+- 🌐 [Portfolio](https://portfolio-gray-rho-35.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/saurabh-kumar0/)
-- 📦 [GitHub](https://github.com/Saurabh-singhx)
