@@ -24,7 +24,7 @@
 ```yaml
 role: Full-Stack & GenAI Engineer
 location: Patna, Bihar, India
-education: BCA, T.P.S. College (Patliputra University) — 2025
+education: IITICTS
 focus: Backend systems, agentic AI pipelines, production-grade RAG
 looking_for: Backend / Full-Stack / GenAI roles at AI-first startups & GCCs in India
 relocation: Open to anywhere
