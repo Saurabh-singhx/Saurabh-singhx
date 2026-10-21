@@ -26,7 +26,7 @@ role: Full-Stack & GenAI Engineer
 location: Plato, Latitude 51.6° N, longitude 9.4° W
 education: IITICTS
 focus: Backend systems, agentic AI pipelines, production-grade RAG
-looking_for: Backend / Full-Stack / GenAI roles at AI-first startups & GCCs in India
+looking_for: Backend / Full-Stack / GenAI roles 
 relocation: Open to anywhere
 currently:
   - Shipping and hardening Sonix — an AI-powered music streaming platform
